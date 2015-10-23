@@ -8,4 +8,4 @@ Instrctions for use:
 4. Check "Developer mode"
 5. Click "Load unpacked extension..."
 6. Select the repository folder.
-7. Enable to extension and open a new tab to begin your adventure.
+7. Enable the extension and open a new tab to begin your adventure.
