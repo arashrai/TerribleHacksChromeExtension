@@ -1,4 +1,4 @@
-# BLAAAZEEE
+# RandSearch
 
 Instrctions for use:
 
